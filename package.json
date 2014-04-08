@@ -9,8 +9,13 @@
     "express": "3.5.1",
     "ejs": "*",
     "socket.io" :"*",
-    "jugglingdb":"0.2.x",
+    "jugglingdb":"*",
     "jugglingdb-mysql":"latest",
-    "jugglingdb-mongodb":"latest"
+    "jugglingdb-mongodb":"latest",
+    "express-liquid":"*",
+    "express-load":"*",
+    "mongodb":"*",
+    "mysql":"*",
+    "jsonfile":"*"
   }
 }

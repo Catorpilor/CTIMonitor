@@ -1,0 +1,28 @@
+{
+  "sitename":"CTIMonitor",
+  "description":"freeswitch cti monitor site",
+  "version":"0.0.1",
+  "headers":[
+
+  ],
+  "skin":"default",
+  "viewPath": "views",
+  "host":"localhost",
+  "assestPath": "public",
+  "dbtype": "mysql",
+  "port":"3060",
+  "db":{
+    "mysql":{
+      "host":"172.16.1.100",
+      "password":"amt123",
+      "username":"chesh",
+      "database":"freeswitch_db"
+    },
+    "mongodb":{
+
+    }
+  },
+  "mail":{
+
+  }
+}
